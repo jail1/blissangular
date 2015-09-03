@@ -1,0 +1,339 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"getWindow",
+				"getWindowHeight()	scripts.js"
+			],
+			[
+				"browser",
+				"browserSync	gulpfile.js"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 145.0,
+		"last_filter": "javasc",
+		"selected_items":
+		[
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"list",
+				"Code Folding: Fold Tag Attributes"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"floobits user",
+				"Floobits - List Users"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 480.0
+	},
+	"console":
+	{
+		"height": 307.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/iulia/Documents/Dungeon/blissangular"
+	],
+	"file_history":
+	[
+		"/C/Users/iulia/Desktop/Mox/Project Files/builds/development/index.html",
+		"/C/Users/iulia/Desktop/Mox/Project Files/gulpfile.js",
+		"/C/Users/iulia/Desktop/Mox/Project Files/components/sass/_variables.scss",
+		"/C/Users/iulia/Desktop/Mox/Project Files/components/scripts/scripts.js",
+		"/C/Users/iulia/Documents/Dungeon/blissangular/README.md",
+		"/C/Users/iulia/Desktop/Mox/Project Files/css/styles.css",
+		"/C/Users/iulia/Desktop/Mox/Project Files/builds/development/js/script.js",
+		"/C/Users/iulia/Desktop/Mox/Project Files/components/bower/vegas/dist/vegas.js",
+		"/C/Users/iulia/Desktop/Mox/.gitignore",
+		"/C/Users/iulia/Desktop/Mox/Materials/scram_plan.md",
+		"/C/Users/iulia/Desktop/Mox/Project Files/bower.json",
+		"/C/Users/iulia/Desktop/Mox/Project Files/builds/development/images/.gitkeep",
+		"/C/Users/iulia/Desktop/Mox/Project Files/components/sass/_glitchEffect.scss",
+		"/C/Users/iulia/Desktop/Mox/Project Files/builds/development/css/styles.css",
+		"/C/Users/iulia/Desktop/Mox/Project Files/components/bower/bootstrap-sass/assets/javascripts/bootstrap/transition.js",
+		"/C/Users/iulia/Desktop/Mox/Project Files/components/bower/bootstrap-sass/assets/javascripts/bootstrap/popover.js",
+		"/C/Users/iulia/Desktop/Mox/Project Files/components/sass/_spinner.scss",
+		"/C/Users/iulia/Desktop/Mox/Project Files/components/sass/styles.scss",
+		"/C/Users/iulia/Desktop/Mox/Project Files/components/bower/bootstrap-sass/assets/stylesheets/_bootstrap.scss",
+		"/C/Users/iulia/Desktop/Mox/Project Files/components/bower/animateCSS/dist/jquery.animatecss.js",
+		"/C/Users/iulia/Desktop/Mox/Project Files/components/sass/_general.scss",
+		"/C/Users/iulia/Desktop/Mox/Project Files/components/_general.scss",
+		"/C/Users/iulia/Desktop/Mox/Project Files/node_modules/bower/node_modules/request/node_modules/tough-cookie/test/jar_serialization_test.js",
+		"/C/Users/iulia/Desktop/Mox/Demo Builds/.gitkeep",
+		"/C/Users/iulia/Desktop/Mox/Project Files/.bowerrc",
+		"/C/Users/iulia/Desktop/Mox/Project Files/components/bower/.gitkeep",
+		"/C/Users/iulia/Desktop/Mox/Project Files/builds/production/index.html",
+		"/C/Users/iulia/Desktop/Mox/README.md",
+		"/C/Users/iulia/Desktop/Mox/Project Files/package.json",
+		"/C/Users/iulia/Desktop/Mox/Project Files/builds/development/js/scripts.js",
+		"/C/Users/iulia/Desktop/Mox/Project Files/.gitignore",
+		"/C/Users/iulia/Desktop/Mox/Project Files/GulpBoilerplate/bower.json",
+		"/C/Users/iulia/Desktop/Mox/Project Files/GulpBoilerplate/package.json",
+		"/C/Users/iulia/Desktop/Mox/Documentation/index.html",
+		"/C/Users/iulia/Desktop/Mox/Materials/ideas.md",
+		"/C/Users/iulia/Work/ngAudio/app/angular.audio.js",
+		"/C/Users/iulia/Work/ngAudio/audioplayer.sublime-project",
+		"/C/Program Files (x86)/Crysis 3/system.cfg",
+		"/C/Users/iulia/Work/floobits/Boyd/Admin-Dashboard/kali/directives/draggable/draggable.js",
+		"/C/Users/iulia/Work/floobits/Boyd/Admin-Dashboard/kali/gulpfile.js",
+		"/C/Users/iulia/Work/floobits/Boyd/Admin-Dashboard/kali/directives/blur/blur.scss",
+		"/C/Users/iulia/Work/floobits/Boyd/Admin-Dashboard/kali/directives/blur/blur.js",
+		"/C/Users/iulia/Work/floobits/Boyd/Admin-Dashboard/gulpfile.js",
+		"/C/Users/iulia/Work/floobits/Boyd/Admin-Dashboard/kali/scripts/scripts.js",
+		"/C/Users/iulia/Work/floobits/Boyd/Admin-Dashboard/kali/directives/datePicker/datePicker.scss",
+		"/C/Users/iulia/Work/floobits/Boyd/Admin-Dashboard/kali/directives/datePicker/JustDirective.js",
+		"/C/php/php.ini",
+		"/C/Users/iulia/Work/floobits/Boyd/Admin-Dashboard/kali/bower.json",
+		"/C/Users/iulia/Work/floobits/Boyd/Admin-Dashboard/kali/package.json",
+		"/C/Users/iulia/floobits/welcome.md",
+		"/C/Users/iulia/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/F/Circle of Friends (1995).English.srt"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"compass",
+			"mailchi",
+			"loader",
+			"initPlugins",
+			"YTPlayer",
+			"initTicker",
+			"ticker",
+			"initTicker",
+			"png",
+			"ong",
+			"02.png",
+			"wrapper",
+			"initpage",
+			"pageback",
+			"initpage",
+			"initPageBackground",
+			"chimp",
+			"jpg",
+			"init",
+			"demo",
+			".ion-alert:before { content: \"\\f101\"; }",
+			".hidden {\n  display: none !important;\n}",
+			"jshint",
+			"modal",
+			"Popover",
+			"over",
+			"bootstrap",
+			"popover",
+			"assets",
+			"fonts",
+			"background",
+			"initPageBackground",
+			"jsSources",
+			"static",
+			"initprogressanimation",
+			"fullHeightElements",
+			"initAnimations",
+			"initAnimations ",
+			"getWindowWidth",
+			"initProgressAnimation",
+			"hidePreloader",
+			"animated",
+			".animated",
+			"builds/development/",
+			"builds/development//",
+			"orbit",
+			"initPreloader",
+			"mobile",
+			"compass",
+			"initAnimations",
+			"isTouchSupported",
+			"getWindowWidth",
+			"getWindowHeight",
+			"getWindowWidth",
+			"development",
+			"connect",
+			"compass",
+			"gulp-compass",
+			"coffee",
+			"browser",
+			"load",
+			"top",
+			"on('change', browserSync.reload)",
+			"gulp",
+			"extension_dir",
+			"extension_dir = \"C:phpext\""
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "blissangular.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"bowr.",
+				"Project Files\\bower.json"
+			],
+			[
+				"js",
+				"Project Files\\node_modules\\bower\\node_modules\\request\\node_modules\\tough-cookie\\test\\jar_serialization_test.js"
+			],
+			[
+				"gulpfile",
+				"Project Files\\gulpfile.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\iulia\\Work\\floobits\\Boyd\\Admin-Dashboard\\admin-dashboard.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 250.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

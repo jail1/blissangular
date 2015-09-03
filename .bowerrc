@@ -1,0 +1,5 @@
+{
+	"directory": "src/vendor_components",
+	"analytics": false,
+	"timeout"  : 12000
+}

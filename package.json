@@ -1,0 +1,22 @@
+{
+  "name": "blissangular",
+  "version": "0.1.0",
+  "description": "Building my own angularjs, by following the book `Build your own angularjs`.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "tdd"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jail1/blissangular.git"
+  },
+  "author": "Iacob Silviu Iulian @ blissterra.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jail1/blissangular/issues"
+  },
+  "homepage": "https://github.com/jail1/blissangular#readme"
+}

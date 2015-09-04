@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"loadN",
+				"loadNpmTasks"
+			],
+			[
 				"getWindow",
 				"getWindowHeight()	scripts.js"
 			],
@@ -23,10 +27,14 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 145.0,
-		"last_filter": "javasc",
+		"height": 400.0,
+		"last_filter": "markdown",
 		"selected_items":
 		[
+			[
+				"markdown",
+				"Markdown HTML Preview"
+			],
 			[
 				"javasc",
 				"Set Syntax: JavaScript"
@@ -52,7 +60,7 @@
 				"Package Control: Install Package"
 			]
 		],
-		"width": 480.0
+		"width": 536.0
 	},
 	"console":
 	{
@@ -73,10 +81,26 @@
 	},
 	"expanded_folders":
 	[
-		"/C/Users/iulia/Documents/Dungeon/blissangular"
+		"/C/Users/iulia/Documents/Dungeon/blissangular",
+		"/C/Users/iulia/Documents/Dungeon/blissangular/development",
+		"/C/Users/iulia/Documents/Dungeon/blissangular/documentation",
+		"/C/Users/iulia/Documents/Dungeon/blissangular/documentation/commit_notes"
 	],
 	"file_history":
 	[
+		"/C/Users/iulia/Documents/Dungeon/blissangular/development/hello.js",
+		"/C/Users/iulia/Documents/Dungeon/blissangular/documentation/commit_notes/Week 1 [08-31-2015][09-06-2015]/09.03.2015.md",
+		"/C/Users/iulia/Documents/Dungeon/blissangular/tests/hello_spec.js",
+		"/C/Users/iulia/Documents/Dungeon/blissangular/Gruntfile.js",
+		"/C/Users/iulia/Documents/Dungeon/blissangular/node_modules/grunt-contrib-testem/node_modules/testem/lib/browser_launcher.js",
+		"/C/Users/iulia/Documents/Dungeon/blissangular/documentation/documentation_index/.gitkeep",
+		"/C/Users/iulia/Documents/Dungeon/blissangular/test/TEST_README.md",
+		"/C/Users/iulia/Downloads/phantomjs-2.0.0-windows/README.md",
+		"/C/Users/iulia/Documents/Dungeon/blissangular/documentation/commit_notes/general_notes.md",
+		"/C/Users/iulia/Documents/Dungeon/blissangular/documentation/general_notes.md",
+		"/C/Users/iulia/Documents/Dungeon/blissangular/.gitignore",
+		"/C/Users/iulia/Documents/Dungeon/blissangular/development/vendor_components/.gitkeep",
+		"/C/Users/iulia/Documents/Dungeon/blissangular/production/vendor_components/.gitkeep",
 		"/C/Users/iulia/Desktop/Mox/Project Files/builds/development/index.html",
 		"/C/Users/iulia/Desktop/Mox/Project Files/gulpfile.js",
 		"/C/Users/iulia/Desktop/Mox/Project Files/components/sass/_variables.scss",
@@ -132,7 +156,7 @@
 	],
 	"find":
 	{
-		"height": 29.0
+		"height": 28.0
 	},
 	"find_in_files":
 	{
@@ -146,6 +170,11 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"NPM",
+			"##",
+			"15",
+			"Jshint",
+			"jshint",
 			"compass",
 			"mailchi",
 			"loader",
@@ -232,11 +261,16 @@
 			"sheets":
 			[
 			]
+		},
+		{
+			"sheets":
+			[
+			]
 		}
 	],
 	"incremental_find":
 	{
-		"height": 29.0
+		"height": 28.0
 	},
 	"input":
 	{
@@ -251,11 +285,18 @@
 				0,
 				1,
 				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
 			]
 		],
 		"cols":
 		[
 			0.0,
+			0.653015938311,
 			1.0
 		],
 		"rows":
@@ -277,7 +318,7 @@
 	"project": "blissangular.sublime-project",
 	"replace":
 	{
-		"height": 54.0
+		"height": 52.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -286,6 +327,10 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"browser_la",
+				"node_modules\\grunt-contrib-testem\\node_modules\\testem\\lib\\browser_launcher.js"
+			],
 			[
 				"bowr.",
 				"Project Files\\bower.json"
@@ -309,7 +354,7 @@
 		[
 			[
 				"",
-				"C:\\Users\\iulia\\Work\\floobits\\Boyd\\Admin-Dashboard\\admin-dashboard.sublime-project"
+				"C:\\Users\\iulia\\Documents\\Dungeon\\blissangular\\blissangular.sublime-project"
 			]
 		],
 		"width": 380.0
@@ -331,7 +376,7 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 250.0,
+	"side_bar_width": 377.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
